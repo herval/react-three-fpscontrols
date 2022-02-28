@@ -1,1 +1,3 @@
-export * from "./FPSControls";
+import FPSControls from "./FPSControls";
+
+export { FPSControls };
