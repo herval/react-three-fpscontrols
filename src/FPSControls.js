@@ -7,7 +7,7 @@
 
 import { OrbitControls, PerspectiveCamera } from "@react-three/drei";
 import { useFrame } from "@react-three/fiber";
-import { useCallback, useEffect, useRef } from "react";
+import React, { useCallback, useEffect, useRef } from "react";
 import { Vector3 } from "three";
 import nipplejs from "nipplejs";
 

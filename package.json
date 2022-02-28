@@ -1,6 +1,6 @@
 {
   "name": "react-three-fpscontrols",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "React Three Fiber FPS Controls for mobile and desktop",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
