@@ -19,7 +19,6 @@ npm i react-three-fpscontrols
 ## Use
 
 <img width="500" src="https://user-images.githubusercontent.com/7658554/155987568-5f788656-990c-470d-95c9-068890ad5233.png" />
-![carbon]()
 
 > You can copy the snippet from codesandbox, it's up-to-date there
 
